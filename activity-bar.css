@@ -1,3 +1,11 @@
 .monaco-workbench .activitybar.right>.content .monaco-action-bar .action-label {
-  transform: scale(0.75);
+  transform: scale(0.8);
+}
+
+span.statusbar-item.__CUSTOM_CSS_JS_INDICATOR_CLS {
+  display: none;
+}
+
+.monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
+  line-height: 18px;
 }
